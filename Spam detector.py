@@ -1,7 +1,5 @@
 # ============================================================
 # Email Spam Detector — Logistic Regression + TF-IDF
-# Author  : Divya Nimbalkar
-# GitHub  : https://github.com/divya-09nimbalkar
 # Dataset : Synthetic email dataset (built-in, no download needed)
 # ============================================================
 
