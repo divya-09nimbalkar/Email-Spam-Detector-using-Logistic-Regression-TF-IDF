@@ -1,4 +1,4 @@
-# 📧 Email Spam Detector
+#  Email Spam Detector
 
 Classifies emails as **Spam or Ham** using TF-IDF vectorization and Logistic Regression, with a Naive Bayes comparison.
 
